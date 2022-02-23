@@ -7,6 +7,4 @@ const divide = (a,b) => {
     else return a / b;
 }
 
-console.log(divide(5,2));
-
 module.exports = { add, multiply, divide, subtract }
